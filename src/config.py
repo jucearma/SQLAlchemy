@@ -1,0 +1,1 @@
+DATABASE_URI = 'postgres+psycopg2://docker:docker@localhost:49153/postgres'

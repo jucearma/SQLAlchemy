@@ -1,0 +1,6 @@
+https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/
+https://github.com/auth0-blog/sqlalchemy-orm-tutorial
+https://docs.sqlalchemy.org/en/14/orm/session_basics.html
+https://github.com/LearnDataSci/articles
+https://www.learndatasci.com/tutorials/using-databases-python-postgres-sqlalchemy-and-alembic/
+https://stackoverflow.com/questions/37251975/python3-sqlalchemy-sqlalchemy-exc-unboundexecutionerror-could-not-locate-a-bind
